@@ -1,0 +1,6 @@
+framework module ShoppingSDK {
+  umbrella header "ShoppingSDK.h"
+
+  export *
+  module * { export * }
+}

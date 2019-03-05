@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/tee/Library/Developer/Xcode/DerivedData/Shopping-ahepfiqpkgjoopeiggaszubvowfs/Build/Products/Debug-iphoneos/ShoppingSDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ShoppingSDK-Swift.h",
+          'external-contents': "/Users/tee/Library/Developer/Xcode/DerivedData/Shopping-ahepfiqpkgjoopeiggaszubvowfs/Build/Products/Debug-iphoneos/ShoppingSDK.framework/Headers/ShoppingSDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ShoppingSDK.h",
+          'external-contents': "/Users/tee/Desktop/TEE-Shopping/ShoppingSDK/ShoppingSDK/ShoppingSDK.h"
+        },
+        {
+          'type': 'file',
+          'name': "ShoppingViewController.h",
+          'external-contents': "/Users/tee/Desktop/TEE-Shopping/ShoppingSDK/ShoppingSDK/VC/ShoppingViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/tee/Library/Developer/Xcode/DerivedData/Shopping-ahepfiqpkgjoopeiggaszubvowfs/Build/Products/Debug-iphoneos/ShoppingSDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/tee/Desktop/TEE-Shopping/ShoppingSDK/build/ShoppingSDK.build/Debug-iphoneos/ShoppingSDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
